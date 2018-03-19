@@ -1,0 +1,1 @@
+Use encoder script to preprocess the raw data. Then change the path variables in model files to train models. 
